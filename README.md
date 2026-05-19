@@ -67,11 +67,7 @@ I'm passionate about building automated systems and full-stack applications. I l
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PuriphatXXVII&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuriphatXXVII&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%"/>
-</p>
-
+![PuriphatXXVII's GitHub stats](https://streak-stats.demolab.com?user=PuriphatXXVII&theme=tokyonight&hide_border=true)
 ---
 
 ## 📫 Connect with me
