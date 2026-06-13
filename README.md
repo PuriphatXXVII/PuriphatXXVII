@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-puriphatxxvii.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://puriphatxxvii.github.io/my-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-PuriphatXXVII-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PuriphatXXVII)
-[![Email](https://img.shields.io/badge/Email-katana32271%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katana32271@gmail.com)
+[![Email](https://img.shields.io/badge/Email-katana32271%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puriphat.srik@gmail.com)
 
 </div>
 
