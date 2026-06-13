@@ -14,12 +14,11 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 Computer Science student and full-stack developer at **Bangkok University**, specializing in **AI-driven automation**. I integrate advanced AI capabilities into scalable web applications and automated pipelines — transforming complex operational challenges into streamlined, intelligent solutions.
 
+<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 - 🔭 Currently building **Office Agent AI** — a multi-agent AI office where specialised agents (different models, different roles) collaborate on real work
-- 🚀 Recently shipped **Pixel Studio** — a multi-model AI design arena (Claude × GPT × Gemini)
 - 🌱 Deepening **multi-agent orchestration, MCP & AI pipelines**
 - 💡 Interested in **AI Automation, Full Stack Development & CI/CD**
 - 🎓 School of Information Technology and Innovation, Bangkok University
@@ -75,6 +74,7 @@ Computer Science student and full-stack developer at **Bangkok University**, spe
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -134,7 +134,7 @@ Computer Science student and full-stack developer at **Bangkok University**, spe
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://puriphatxxvii.github.io/my-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PuriphatXXVII)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katana32271@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puriphat.srik@gmail.com)
 
 ---
 
