@@ -16,8 +16,6 @@
 
 Computer Science student and full-stack developer at **Bangkok University**, specializing in **AI-driven automation**. I integrate advanced AI capabilities into scalable web applications and automated pipelines — transforming complex operational challenges into streamlined, intelligent solutions.
 
-<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 - 🔭 Currently building **Office Agent AI** — a multi-agent AI office where specialised agents (different models, different roles) collaborate on real work
 - 🌱 Deepening **multi-agent orchestration, MCP & AI pipelines**
 - 💡 Interested in **AI Automation, Full Stack Development & CI/CD**
@@ -124,7 +122,6 @@ Computer Science student and full-stack developer at **Bangkok University**, spe
 <div align="center">
 
 ![PuriphatXXVII's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuriphatXXVII&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=PuriphatXXVII&theme=tokyonight&hide_border=true)
 
 </div>
 
