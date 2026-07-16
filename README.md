@@ -117,14 +117,20 @@ Computer Science student and full-stack developer at **Bangkok University**, spe
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/PuriphatXXVII?style=for-the-badge&logo=github&color=58A6FF&label=Followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPuriphatXXVII&label=Public%20Repos&query=public_repos&color=58A6FF&style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=PuriphatXXVII&color=58A6FF&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+---
+
 ## 📫 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://puriphatxxvii.github.io/my-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PuriphatXXVII)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puriphat.srik@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PuriphatXXVII&color=blueviolet&style=flat-square"/>
-</p>
