@@ -117,16 +117,6 @@ Computer Science student and full-stack developer at **Bangkok University**, spe
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![PuriphatXXVII's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuriphatXXVII&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
----
-
 ## 📫 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://puriphatxxvii.github.io/my-portfolio)
